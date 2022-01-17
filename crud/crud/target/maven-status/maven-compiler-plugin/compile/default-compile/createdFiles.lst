@@ -1,0 +1,8 @@
+com\springboot\userService\entity\UserEntity.class
+com\springboot\userService\mapper\UserMapper.class
+com\springboot\userService\UserService.class
+com\springboot\userService\service\UserServiceImpl.class
+com\springboot\userService\model\User.class
+com\springboot\userService\controller\UserController.class
+com\springboot\userService\repository\UserRepository.class
+com\springboot\userService\service\UserService.class

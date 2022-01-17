@@ -1,0 +1,5 @@
+com\springboot\crud\service\UserServiceTest.class
+com\springboot\crud\controller\JsonFormat.class
+com\springboot\crud\controller\UserControllerTest.class
+com\springboot\crud\CrudApplicationTests.class
+com\springboot\crud\repository\UserRepositoryTest.class
